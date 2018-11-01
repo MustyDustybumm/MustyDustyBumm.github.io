@@ -1,6 +1,6 @@
 ---
 layout: post
-title: why i hate people at school 
+title: WHY I HATE SCHOOL.
 ---
 
 I hate school. 
