@@ -18,7 +18,7 @@ avatar: ![_config.yml]({{ site.baseurl }}/images/blog-square.jpg)
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: Jadyns9501@aurorak12.org
   facebook:
   flickr:
   github: barryclark/jekyll-now
