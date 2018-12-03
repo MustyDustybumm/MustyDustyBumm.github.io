@@ -3,7 +3,7 @@ layout: post
 Title: I hate school but i come everyday   
 ---
 
-![image title](/images/wild.png)
+![image title](/images/yes.jpg)
 
 ##  1st reason 
 I come to school because i hate being home. Like I love being home but I hate not being able to leave the house to see my friends. 
